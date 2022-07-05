@@ -7,7 +7,7 @@
 /dataSources/
 /dataSources.local.xml
 
- .idea/compiler.xml
-.idea/jarRepositories.xml
-.idea/misc.xml
-.idea/vcs.xml
+ /.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/vcs.xml
